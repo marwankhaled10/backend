@@ -1,0 +1,52 @@
+2025-05-05 05:00:35,553 - __main__ - INFO - Initializing medication processor...
+2025-05-05 05:00:35,554 - medication_processor - INFO - Loading medication data from https://hebbkx1anhila5yf.public.blob.vercel-storage.com/finaldatasets-EwfO5Xa82dxayNxObPBoz3Pzyujsvg.csv
+2025-05-05 05:00:37,144 - medication_processor - INFO - Successfully loaded 999 medications
+2025-05-05 05:00:37,145 - __main__ - INFO - Initializing question answering engine...
+2025-05-05 05:00:37,146 - __main__ - INFO - Initialization complete!
+2025-05-05 05:00:37,199 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+2025-05-05 05:00:37,202 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-05 05:01:02,368 - werkzeug - INFO - 127.0.0.1 - - [05/May/2025 05:01:02] "GET /api/health HTTP/1.1" 200 -
+2025-05-05 05:01:02,611 - werkzeug - INFO - 127.0.0.1 - - [05/May/2025 05:01:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-05 05:01:13,721 - werkzeug - INFO - 127.0.0.1 - - [05/May/2025 05:01:13] "GET /api/medications HTTP/1.1" 200 -
+2025-05-05 05:01:46,972 - werkzeug - INFO - 127.0.0.1 - - [05/May/2025 05:01:46] "[31m[1mGET /api/answer HTTP/1.1[0m" 405 -
+2025-05-05 05:16:25,697 - __main__ - INFO - Initializing medication processor...
+2025-05-05 05:16:25,698 - medication_processor - INFO - Loading medication data from C:\Users\power\backend-project\finaldatasets.csv
+2025-05-05 05:16:26,017 - medication_processor - INFO - Successfully loaded 999 medications
+2025-05-05 05:16:26,017 - __main__ - INFO - Initializing question answering engine...
+2025-05-05 05:16:26,018 - __main__ - INFO - Initialization complete!
+2025-05-05 05:16:26,045 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+2025-05-05 05:16:26,047 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-05 05:17:09,640 - werkzeug - INFO - 127.0.0.1 - - [05/May/2025 05:17:09] "[33mGET / HTTP/1.1[0m" 404 -
+2025-05-05 05:21:22,608 - werkzeug - INFO - 127.0.0.1 - - [05/May/2025 05:21:22] "GET /api/medications HTTP/1.1" 200 -
+2025-05-05 05:25:20,337 - werkzeug - INFO - 127.0.0.1 - - [05/May/2025 05:25:20] "GET /api/medications HTTP/1.1" 200 -
+2025-05-05 05:26:52,031 - __main__ - INFO - Initializing medication processor...
+2025-05-05 05:26:52,032 - medication_processor - INFO - Loading medication data from C:\Users\power\backend-project\finaldatasets.csv
+2025-05-05 05:26:52,416 - medication_processor - INFO - Successfully loaded 999 medications
+2025-05-05 05:26:52,418 - __main__ - INFO - Initializing question answering engine...
+2025-05-05 05:26:52,419 - __main__ - INFO - Initialization complete!
+2025-05-05 05:26:52,703 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+2025-05-05 05:26:52,704 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-05 05:27:05,473 - werkzeug - INFO - 127.0.0.1 - - [05/May/2025 05:27:05] "GET /api/medications HTTP/1.1" 200 -
+2025-05-05 05:35:11,911 - __main__ - INFO - Initializing medication processor...
+2025-05-05 05:35:11,912 - medication_processor - INFO - Loading medication data from C:\Users\power\backend-project\finaldatasets.csv
+2025-05-05 05:35:12,309 - medication_processor - INFO - Successfully loaded 999 medications
+2025-05-05 05:35:12,309 - __main__ - INFO - Initializing question answering engine...
+2025-05-05 05:35:12,312 - __main__ - INFO - Initialization complete!
+2025-05-05 05:35:12,440 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+2025-05-05 05:35:12,455 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-05 05:35:39,510 - werkzeug - INFO - 127.0.0.1 - - [05/May/2025 05:35:39] "GET /api/medications HTTP/1.1" 200 -
+2025-05-05 05:35:56,962 - werkzeug - INFO - 127.0.0.1 - - [05/May/2025 05:35:56] "GET /api/medications HTTP/1.1" 200 -
+2025-05-05 05:37:40,984 - werkzeug - INFO - 127.0.0.1 - - [05/May/2025 05:37:40] "GET /api/medications?limit=6 HTTP/1.1" 200 -
+2025-05-05 05:44:05,323 - werkzeug - INFO - 127.0.0.1 - - [05/May/2025 05:44:05] "GET /api/medications?limit=10 HTTP/1.1" 200 -
